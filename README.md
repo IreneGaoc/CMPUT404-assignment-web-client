@@ -26,4 +26,3 @@ Reference
 ========================
 * http://itman.in/en/how-to-add-parameters-to-the-url-string-in-python/
 * https://stackoverflow.com/questions/40557606/how-to-url-encode-in-python-3/40557716
-* 
